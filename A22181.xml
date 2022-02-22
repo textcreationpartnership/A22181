@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iames by the grace of God, of England, Scotland, France, and Ireland King, defender of the faith &amp;c. to the chiefe constables and bayliffe of the hundred or deuision of [blank] in our countie of [blank] and to euery of them greeting ... ; By vertue of a precept in His Maiesties name to me directed these are to charge and command you, that you warne two of the most sufficient men within your constablery or tything ... to appeare before the Clerke of the Market ...</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1619</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22181</idno>
+            <idno type="STC">STC 8593.4</idno>
+            <idno type="STC">STC 8593.5</idno>
+            <idno type="STC">ESTC S382</idno>
+            <idno type="EEBO-CITATION">22342690</idno>
+            <idno type="OCLC">ocm 22342690</idno>
+            <idno type="VID">25415</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22181)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 25415)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1752:16-17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Iames by the grace of God, of England, Scotland, France, and Ireland King, defender of the faith &amp;c. to the chiefe constables and bayliffe of the hundred or deuision of [blank] in our countie of [blank] and to euery of them greeting ... ; By vertue of a precept in His Maiesties name to me directed these are to charge and command you, that you warne two of the most sufficient men within your constablery or tything ... to appeare before the Clerke of the Market ...</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>B. Norton and J. Bill,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1619?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publisher and date of imprint suggested by STC (2nd ed.).</note>
+                  <note>Blank form of orders to check weights and measures used by millers, bakers, brewers, etc.</note>
+                  <note>Filmed twice (at reel positions 1752:16-17).</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Weights and measures --  England.</term>
+               <term>Proclamations --  Great Britain.</term>
+               <term>Great Britain --  History --  James I, 1603-1625.</term>
+               <term>Great Britain --  Politics and government --  1603-1625.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:25415:1"/>
+            <!-- PDF PAGE 12 -->
+            <opener>
+               <signed>
+                  <seg rend="decorInit">I</seg>AMES by the grace of God, of England, Scotland, France, and Ireland King, defender of the faith, &amp;c.</signed> 
+               <salute>To the chiefe Conſtables and Bayliffe of the Hundred or De<g ref="char:EOLhyphen"/>uiſion of  <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap>  in our Countie of  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>  and to euery of them, Greeting:</salute>
+            </opener>
+            <p>We will and commaund you, that you warne, and cauſe to come, xxiiij, honeſt and diſcreet men of your ſaid Hundred or Deuiſion, before the Clerke of the market of Our houſhold, and throughout our Realme of England, or his lawfull Deputie, in and through our ſayd Countie of  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  and euery part thereof, aſwell within Liberties as without, to appeare at  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  vpon  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  being the  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  day of  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  next by eight of the clocke in the fore<g ref="char:EOLhyphen"/>noone of the ſame day: Then and there to heare and doe vpon their ſeuerall Oathes, as they and euery of them ſhall bee for vs, and on our behalfes required, according to the Lawes and Statutes of Our Realme: And moreouer that you ſend your Precepts according to the Tenor hereof, to all your pettie Conſtables or Tythingmen of eue<g ref="char:EOLhyphen"/>ry Pariſh and Ham<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et, within your ſayd Hundred or Deuiſion, thereby comman<g ref="char:EOLhyphen"/>ding them, that they ſpecially warne all Millers, Bakers, Brewers, Inholders, Vinte<g ref="char:EOLhyphen"/>ners, Mercers, Grocers, Drapers, Alehouſe-keepers, Butchers, Chandlers, Smithes, Weauers, Farmers, Malſters, Taylors, Glouers, Cloathiers, Cloathworkers, Fullers, and generally all Artificers, Tradeſmen or any other perſon or perſons whatſoeuer, within their Conſtablery or Tything, that vſeth or hath any Waight or Meaſures whatſoeuer, ſealed or not ſealed, to appeare with all their Waights &amp; Meaſures the day and place aforeſayd, to ſee them duely examined by our Standerds: And then the Bakers and Victuallers bread of all ſorts to bee ſhewed for the perfect intelligence of the true aſsiſe therof, and that the ſaid Conſtables or Tythingmen do bring thither and preſent to our ſayd Clerke of the Market or his deputie faire written, and fixed to your Precept, as the returne thereof a true Note of the names of the Pariſh or Hamlet whereof they are officers: and the manner of the Pariſh whereof the Hamlet is a part, with the true names and ſurnames, and their Additions of all the perſons ap<g ref="char:EOLhyphen"/>pointed to be ſummoned by them, as aforeſayd, and withall a Note of all the Weights and Meaſures, Beames and Ballances, which euery or any man vſeth or hath: And your ſelfe or ſelues, to bee then and there preſent and attendant, and to make a due returne of this Our commaund and Precept: Indorſing thereupon the true names of all the Pariſhes and Hamlets, whereof you haue ſummoned the officers to appeare, as you will anſwere the contrary at your perill:</p>
+            <closer>
+               <dateline>Dated vnder the Seale of the Office a<g ref="char:EOLhyphen"/>foreſayde <date>the  <gap reason="blank" extent="1 span">
+                        <desc>〈1 span left blank〉</desc>
+                     </gap>  day of  <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap>  in the  <gap reason="blank" extent="1 span">
+                        <desc>〈1 span left blank〉</desc>
+                     </gap>  yeere of Our Reigne of England, &amp;c.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="illustration">
+            <p>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="document">
+            <pb facs="tcp:25415:1"/>
+            <!-- PDF PAGE 12 -->
+            <p>
+               <seg rend="decorInit">B</seg>Y vertue of a Precept in his Maieſties name to me directed, Theſe are to charge and command you, that you warne two of the moſt ſufficient men within your Conſtablery or Tything, neither of them being a tradeſman, if conueniently you may, to appeare before the Clerke of the Market of his Maieſties moſt honourable houſhould, or his Lawfull Deputie, at  <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap>  within this Countie of  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  on  <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap>  the  <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap>  day of  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  next comming by eight of the clocke in the forenoone of the ſame day, to ſerue the kings Maieſtie vpon a Iury for that ſeruice: And that you ſpecially warne all Bakers, Brewers, Inholders, Vintners, Alehouſe-keepers, Victuallers, Butchers, Chandlers, Groſſers, Mercers, Cloathiers, Cloathworkers, Fullers, Weauers, Taylors, Smithes, Glouers, Witetawyers, Millers, Maulſters, Corne-maſters, Farmers, and generally all Artificers, Tradeſ<g ref="char:EOLhyphen"/>men, and all other perſons whatſoeuer within your Conſtablery or Tything, that haue or vſe any Weight or Meaſure, to a appeare before the ſayd Clerke of the Market, at the time and place aforeſaid, bringing or cauſing to bee brought thither at the ſame time, all ſuch Weights and Meaſures, as they or any of them vſe or haue, either ſealed or vnſealed, to haue them dulie exa<g ref="char:EOLhyphen"/>mined with his Maieſties, Standerds: And that you bring with you faire written, all the true names and ſurnames with the ſeuerall faculties or additions of euery perſon ſo ſummoned, or to bee ſummoned by you, to appeare as aforeſaid, together with a true Note of all the Weights and Meaſures, Beames and Ballances, that euery ſuch perſon hath or vſeth, with the true manner of the Pariſh or Hamlet whereof you are officer. And further that you repaire to all the Victu<g ref="char:EOLhyphen"/>allers houſes and what bread you ſhall find there of the Bakers bread of ſeuerall ſorts, to bring the ſame with you, with the names of the Bakers that made the ſame, that triall may bee made of the true Aſſiſes thereof: And that you yourſelfe doe make your attendance at the time and place aforeſaid, and doe in due manner make full returne of this Precept in due time, as you will anſwere the contrarie at your perill.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
